@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Hello world!");
         Point first = new Point(6, 5);
 
-        Point second = new Point(3, 1);
+        Point second = new Point(3, 1); //commit
 
         System.out.println("distance(0,0)= " + first.distance());
 
